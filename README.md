@@ -21,7 +21,7 @@ Project planned to complete
 for production.
 * Compared Transunion and Experian credit report to decide which one has better lift for model
 building.
-* 
+
 * Identified new data sources/patterns that add significant lift to predictive modeling capabilities.
 
 ####
